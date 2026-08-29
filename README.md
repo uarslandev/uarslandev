@@ -1,12 +1,12 @@
 Hello World, I'm Umut Arslan
 =====================================================================================================================================
 
-A Machine Learning Engineer who works as Research Assistant. With expertise in Full Stack Development, Python, Java, and more. I am a true Linux enthusiast and daily drive NixOS. Currently pursuing a degree in Intelligent Interactive Systems. I aim to excel in impactful projects. Let's connect!
+A Full Stack- & DevOps Engineer who works @DB InfraGo. I graduated in the field of intelligent interactive systems (M.Sc.) and business Informatics (B.Sc). My other interests lie in Graphics Design especially video editing, learning languages playing an guitar. Let's connect!
 
-* 🌍  I’m based in Germany 🇩🇪, of Turkish 🇹🇷 descent, and speak English 🇬🇧, Japanese 🇯🇵, and Italian 🇮🇹.
+* 🌍  I’m based in Germany 🇩🇪.
 * 🖥️  See my portfolio at <a href="https://uarslan.com/" target="_blank">my website</a> and <a href="https://behance.com/umut-arslan/" target="_blank">my art</a>
-* 🌐  You can contact me at [uarslancs@gmail.com](mailto:uarslancs@gmail.com)
-* 🚀  I'm currently working at [CITEC](https://www.uni-bielefeld.de/zwe/citec/)
+* 🌐  You can contact me at [uarslandev@gmail.com](mailto:uarslandev@gmail.com)
+* 🚀  I'm currently working at [DB InfraGo](https://www.dbinfrago.com/web)
 * 🤝  I'm open to collaborating on any open-source project
 
 ---
